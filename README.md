@@ -1,0 +1,3 @@
+# Android-Class4
+
+时钟作业。在横竖屏切换时普通圆形时钟会改变大小，并且通过改写onSaveInstanceState方法来使时钟在横竖屏切换时保留原来的时钟样式。
